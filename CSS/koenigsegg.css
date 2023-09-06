@@ -173,3 +173,62 @@ span.link {
 #first_layer li .second_layer li.first_element_menu {
   margin-top: 5px;
 }
+#contents {
+  width: 944px;
+}
+#contents .side_text {
+  text-align: left;
+  float: right;
+  width: 150px;
+  margin: 10px 20px;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: dotted gray;
+  padding: 20px 15px;
+  background-image: url(/Images/tlo_boczne.jpg);
+}
+#upper_contents {
+  background-image: url(/Images/gorna_czesc_zawartosci.gif);
+  width: 944px;
+  height: 17px;
+}
+
+#middle_contents {
+  background-image: url(/Images/srodkowa_czesc_zawartosci.gif);
+  width: 944px;
+  background-repeat: repeat-y;
+}
+
+#text {
+  text-align: justify;
+  padding: 10px 50px;
+  line-height: 140%;
+  font-size: 20px;
+  font-family: "Trebuchet MS", helvetica, sans-serif;
+}
+h1 {
+  font-size: 32px;
+  text-align: center;
+  color: #0a3c72;
+  margin-bottom: 36px;
+  font-family: Calibri, Tahoma, Arial;
+  font-style: italic;
+}
+p {
+  margin-bottom: 15px;
+}
+h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #0a3c72;
+}
+h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #0a3c72;
+}
+#bottom_contents {
+  background-image: url(/Images/dolna_czesc_zawartosci.gif);
+  width: 944px;
+  height: 31px;
+}
