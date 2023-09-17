@@ -232,3 +232,58 @@ h3 {
   width: 944px;
   height: 31px;
 }
+#bottom_part_of_site {
+  background-image: url(/Images/gora_i_dol.gif);
+  width: 944px;
+  height: 113px;
+  margin-bottom: 10px;
+}
+
+#newsletter {
+  float: left;
+  margin-left: 20px;
+}
+#text_newsletter {
+  color: white;
+  text-align: left;
+  padding-top: 15px;
+}
+#header_newsletter {
+  font-size: 15px;
+  font-family: "Comic sans MS", cursive sans-serif;
+  font-weight: bold;
+}
+#form_newsletter {
+  margin-top: 10px;
+  font-size: 12px;
+}
+.input_text {
+  background-color: gray;
+  font-size: 12px;
+}
+.submit_button {
+  padding: 5px;
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  border: 2px outset gray;
+}
+.submit_button:hover {
+  color: green;
+}
+.submit_button:active {
+  border: 2px outset gray;
+}
+
+#newsletter_info {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 25px;
+  margin-top: 4px;
+}
+#copyright {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 12px;
+}
